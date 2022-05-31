@@ -9,7 +9,7 @@
 <tr>
   <td>
     <h4>
-    <li>🌱 I’m currently learning <code>JavaScript</code>, <code>TypeScript</code>, <code>HTML</code>, <code>CSS</code> and <code>EVERYTHING</code></li>
+    <li>🌱 I’m currently learning <code>JavaScript</code>, <code>TypeScript</code>, <code>HTML</code>, <code>CSS</code>
     <li>👯 I’m looking to collaborate on <code>null</code></li>
     <li>🤔 I’m looking for help with <code>null</code></li>
     <li>💬 Ask me about <code>anything</code></li>
