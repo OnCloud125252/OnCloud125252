@@ -2,9 +2,9 @@
 <table>
 <tr>
   <td>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Anonymous-AAAA&show_icons=true&theme=radical" title="AAAA's GitHub Stats">
+    <img align="left" width="600" src="https://github-readme-stats.vercel.app/api?username=Anonymous-AAAA&show_icons=true&theme=radical" title="AAAA's GitHub Stats">
   </td>
-  <td rowspan="2"><img align="right" width="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anonymous-AAAA&langs_count=8" title="AAAA's Most Used Languages"></td>
+  <td rowspan="2"><img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anonymous-AAAA&langs_count=8" title="AAAA's Most Used Languages"></td>
 </tr>
 <tr>
   <td>
