@@ -13,7 +13,7 @@
     <li>👯 I’m looking to collaborate on <code>null</code></li>
     <li>🤔 I’m looking for help with <code>null</code></li>
     <li>💬 Ask me about <code>anything</code></li>
-    <li>⚡ Fun fact : Love to develope on <code>Windows 10</code> with <code>VSCode</code> + <code>WSL</code></li>
+    <li>⚡ Fun fact : Love to develop on <code>Windows 10</code> with <code>VSCode</code> + <code>WSL</code></li>
     </h4>
   </td>
 </tr>
