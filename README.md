@@ -1,4 +1,4 @@
-<img align="left" src="https://readme-typing-svg.herokuapp.com?size=40&height=60&lines=Hello%2C+I'm+AAAA+~">
+<img align="left" src="https://readme-typing-svg.herokuapp.com?size=40&height=60&lines=Hello%2C+I'm+AAAA+!">
 <table>
 <tr>
   <td>
@@ -19,6 +19,11 @@
 </tr>
 </table>
 
+<div>
+  <h2>💙 About me</h2>
+  <h3><p>“I am always learning, always discovering.”</p></h3>
+  <p>My name is AAAA. I'm a student who love coding, computers, and electronics. I always to try and learn new things.</p>
+</div>
 
 <h2>
 <details>
