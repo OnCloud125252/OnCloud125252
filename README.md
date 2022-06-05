@@ -43,7 +43,7 @@
   <h6>
   <ul>
     <li><a href="https://github.com/TakeUFlab/MdTimetableAPI" title="Mingdao Timetable API's GitHub page">Mingdao Timetable API</a> - an API for mingdao high school's timetable.</li>
-    <li><a href="https://github.com/TakeUFlab/NewMd" title="NewMd's GitHub page">NewMd</a> - a beautiful type of mingdao high school's timetable.</li>
+    <li><a href="https://github.com/TakeUFlab/md-web" title="md-web's GitHub page">NewMd</a> - a beautiful type of mingdao high school's timetable.</li>
   </ul>
   </h6>
   </p>
