@@ -1,4 +1,4 @@
-<img align="left" src="https://readme-typing-svg.herokuapp.com?size=40&height=60&lines=Hello%2C+I'm+AAAA+!">
+<img align="center" src="https://readme-typing-svg.herokuapp.com?size=40&height=60&lines=Hello%2C+I'm+AAAA+!">
 <table>
 <tr>
   <td>
