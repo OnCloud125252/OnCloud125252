@@ -4,9 +4,9 @@
 
 <div>
   <p>
-  <img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anonymous-AAAA&langs_count=8" title="AAAA's Most Used Languages">
+  <img align="right" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anonymous-AAAA&langs_count=8" title="AAAA's Most Used Languages">
   <span align="left">
-  <img width="600" src="https://github-readme-stats.vercel.app/api?username=Anonymous-AAAA&show_icons=true&theme=radical" title="AAAA's GitHub Stats">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=Anonymous-AAAA&show_icons=true&theme=radical" title="AAAA's GitHub Stats">
   </span>
   </p>
   <h4>
