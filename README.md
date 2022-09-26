@@ -4,10 +4,10 @@
 
 <div>
   <p>
-  <img align="right" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anonymous-AAAA&langs_count=8" title="AAAA's Most Used Languages">
   <span align="left">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=Anonymous-AAAA&show_icons=true&theme=radical" title="AAAA's GitHub Stats">
+  <img width="65%" src="https://github-readme-stats.vercel.app/api?username=Anonymous-AAAA&show_icons=true&theme=radical" title="AAAA's GitHub Stats">
   </span>
+  <img align="right" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anonymous-AAAA&langs_count=8" title="AAAA's Most Used Languages">
   </p>
   <h4>
   <li>🌱 I’m currently learning <code>JavaScript</code>, <code>TypeScript</code>, <code>HTML</code>, <code>CSS</code>
