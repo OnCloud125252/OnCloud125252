@@ -36,17 +36,17 @@
   <h5>Owned By Me</h5>
   <h6>
   <ul>
-    <li><a href="https://github.com/Anonymous-AAAA/AAAA-Discordbot" title="AAAA-Discordbot's GitHub page">AAAA-Discordbot</a> - a discord bot for fetching video game's status.</li>
-    <li><a href="https://github.com/Anonymous-AAAA/yoru-Discordbot" title="yoru-Discordbot's GitHub page">yoru-Discordbot</a> - a discord bot that can help prevent scams links.</li>
+    <li><a href="https://github.com/TakeUFlab/md-web" title="md-web's GitHub page">NewMd</a> - a beautiful type of mingdao high school's timetable.</li>
+    <li><a href="https://github.com/TakeUFlab/MdTimetableAPI" title="Mingdao Timetable API's GitHub page">Mingdao Timetable API</a> - an API for mingdao high school's timetable.</li>
+    <!-- li><a href="https://github.com/Anonymous-AAAA/AAAA-Discordbot" title="AAAA-Discordbot's GitHub page">AAAA-Discordbot</a> - a discord bot for fetching video game's status.</li -->
+    <!-- li><a href="https://github.com/Anonymous-AAAA/yoru-Discordbot" title="yoru-Discordbot's GitHub page">yoru-Discordbot</a> - a discord bot that can help prevent scams links.</li -->
     <li><a href="https://github.com/Anonymous-AAAA/Spacedesk-Viewer" title="Spacedesk-Viewer's GitHub page">Spacedesk-Viewer</a> - a spacedesk client app that can be used offline.</li>
-    <li><a href="https://github.com/Anonymous-AAAA/Computer-Tips" title="Computer-Tips's GitHub page">Computer-Tips</a> - a helpful documentation for Windows 10 users.</li>
+    <!-- li><a href="https://github.com/Anonymous-AAAA/Computer-Tips" title="Computer-Tips's GitHub page">Computer-Tips</a> - a helpful documentation for Windows 10 users.</li -->
   </ul>
   </h6>
   <h5>Frequent Contributor Of</h5>
   <h6>
   <ul>
-    <li><a href="https://github.com/TakeUFlab/MdTimetableAPI" title="Mingdao Timetable API's GitHub page">Mingdao Timetable API</a> - an API for mingdao high school's timetable.</li>
-    <li><a href="https://github.com/TakeUFlab/md-web" title="md-web's GitHub page">NewMd</a> - a beautiful type of mingdao high school's timetable.</li>
     <li><a href="https://github.com/Lipoic" title="Lipoic's GitHub page">Lipoic</a> - an online course platform.</li>
   </ul>
   </h6>
