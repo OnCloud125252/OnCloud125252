@@ -55,5 +55,5 @@
 </h2>
 
 ## 📫 Contact me
-- My facebook : [Facebook](https://www.facebook.com/alexandt.liao.90 "AAAA's Facebook")
-- My discord : [Discord](https://discord.com/users/755269122597585018 "AAAA's Discord")
+- My facebook : [Alexande Liao](https://www.facebook.com/alexandt.liao.90 "Facebook")
+- My discord : [꧁AAAA꧂#2713](https://discord.com/users/755269122597585018 "Discord")
