@@ -2,25 +2,21 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=40&height=60&lines=Hello%2C+I'm+AAAA+!">
 </div>
 
-<table>
-<tr>
-  <td>
-    <img align="left" width="600" src="https://github-readme-stats.vercel.app/api?username=Anonymous-AAAA&show_icons=true&theme=radical" title="AAAA's GitHub Stats">
-  </td>
-  <td rowspan="2"><img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anonymous-AAAA&langs_count=8" title="AAAA's Most Used Languages"></td>
-</tr>
-<tr>
-  <td>
-    <h4>
-    <li>🌱 I’m currently learning <code>JavaScript</code>, <code>TypeScript</code>, <code>HTML</code>, <code>CSS</code>
-    <li>👯 I’m looking to collaborate on <code>null</code></li>
-    <li>🤔 I’m looking for help with <code>null</code></li>
-    <li>💬 Ask me about <code>anything</code></li>
-    <li>⚡ Fun fact : Love to develop on <code>Windows 10</code> with <code>VSCode</code> + <code>WSL</code></li>
-    </h4>
-  </td>
-</tr>
-</table>
+<div>
+  <p>
+  <img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anonymous-AAAA&langs_count=8" title="AAAA's Most Used Languages">
+  <span align="left">
+  <img width="600" src="https://github-readme-stats.vercel.app/api?username=Anonymous-AAAA&show_icons=true&theme=radical" title="AAAA's GitHub Stats">
+  </span>
+  </p>
+  <h4>
+  <li>🌱 I’m currently learning <code>JavaScript</code>, <code>TypeScript</code>, <code>HTML</code>, <code>CSS</code>
+  <li>👯 I’m looking to collaborate on <code>null</code></li>
+  <li>🤔 I’m looking for help with <code>null</code></li>
+  <li>💬 Ask me about <code>anything</code></li>
+  <li>⚡ Fun fact : Love to develop on <code>Windows 10</code> with <code>VSCode</code> + <code>WSL</code></li>
+  </h4>
+</div>
 
 <div>
   <h2>💙 About me</h2>
@@ -28,11 +24,18 @@
   <p>My name is AAAA. I'm a student who love coding, computers, and electronics. I always to try and learn new things.</p>
 </div>
 
-<h2>
+<div>
+  <h2>🛠 Currently working project</h2>
+  <h3><a href="https://github.com/TakeUFlab/md-web" title="md-web's GitHub page">NewMd</a></h3>
+  <p>NewMD is a beautiful type of mingdao high school's timetable</p>
+</div>
+
+<h3>
 <details>
-  <summary>🛠 Currently working projects</summary>
-  <p align="left">
-  <p><em>These are my current projects. Some other are not listed here.</em></p>
+  <summary>Also working on</summary>
+  <p align="right">
+  <em>These are my current projects. Some other are not listed here.</em>
+  </p>
   <h5>Owned By Me</h5>
   <h6>
   <ul>
@@ -52,7 +55,7 @@
   </h6>
   </p>
 </details>
-</h2>
+</h3>
 
 ## 📫 Contact me
 - My facebook : [Alexande Liao](https://www.facebook.com/alexandt.liao.90 "Facebook")
