@@ -43,6 +43,7 @@
   <ul>
     <!-- li><a href="https://github.com/Anonymous-AAAA/NewMD" title="NewMD's GitHub page">NewMd</a> - a beautiful type of mingdao high school's timetable.</li -->
     <li><a href="https://github.com/Anonymous-AAAA/MdTimetableAPI" title="Mingdao Timetable API's GitHub page">Mingdao Timetable API</a> - an API for mingdao high school's timetable.</li>
+    <li><a href="https://github.com/kaoruchan220915/kaoruchan220915.github.io" title="faQ's GitHub page">fa Q ~</a> - a fun website just for relaxing.</li>
     <li><a href="https://github.com/Anonymous-AAAA/AAAA-Discordbot" title="AAAA-Discordbot's GitHub page">AAAA-Discordbot</a> - a discord bot for fetching video game's status.</li>
     <!-- li><a href="https://github.com/Anonymous-AAAA/yoru-Discordbot" title="yoru-Discordbot's GitHub page">yoru-Discordbot</a> - a discord bot that can help prevent scams links.</li -->
     <li><a href="https://github.com/Anonymous-AAAA/Spacedesk-Viewer" title="Spacedesk-Viewer's GitHub page">Spacedesk-Viewer</a> - a spacedesk client app that can be used offline.</li>
