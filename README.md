@@ -31,7 +31,7 @@
   <h3><a href="https://github.com/Anonymous-AAAA/NewMD" title="NewMD's GitHub page">NewMd</a></h3>
   <p>NewMD is a beautiful type of mingdao high school's timetable website.</p>
   <p>Demo website on netlify : <a href="https://newmd.netlify.com" title="NewMD website">NewMd website</a></p>
-  <h6><em>Latest changes will be update on demo website</em></h6>
+  <h6><em>This is the beta version. It does not represent the final quality.</em></h6>
 </div>
 
 <h3>
