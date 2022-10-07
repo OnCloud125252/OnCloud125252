@@ -28,9 +28,9 @@
 
 <div>
   <h2>🛠 Currently working project</h2>
-  <h3><a href="https://github.com/Anonymous-AAAA/NewMD" title="NewMD's GitHub page">NewMd</a></h3>
-  <p>NewMD is a beautiful type of mingdao high school's timetable website.</p>
-  <p>Demo website on netlify : <a href="https://newmd.netlify.com" title="NewMD website">NewMd website</a></p>
+  <h3><a href="https://github.com/Anonymous-AAAA/NewMD" title="NewMD's GitHub page">NewMD</a></h3>
+  <p>NewMD is a beautiful type of Mingdao high school's timetable website.</p>
+  <p>Demo website on netlify : <a href="https://newmd.netlify.com" title="NewMD website">NewMD website</a></p>
   <h6><em>This is the beta version. It does not represent the final quality.</em></h6>
 </div>
 
