@@ -28,7 +28,7 @@
 
 <div>
   <h2>🛠 Currently working project</h2>
-  <a href="https://ibb.co/dt0xHRy"><img src="https://i.ibb.co/W0WjRL1/logo-web.png" alt="logo-web" border="0"></a>
+  <a href="https://newmd.eu.org"><img src="https://i.ibb.co/W0WjRL1/logo-web.png" alt="logo-web" border="0"></a>
   <h3><a href="https://github.com/NewMD-org/NewMD-Frontend" title="NewMD's GitHub page">NewMD</a> - a beautiful version of Mingdao high school's timetable website.</h3>
   <p>View website : <a href="https://newmd.eu.org" title="NewMD's website">newmd.eu.org</a></p>
   <p>View organization : <a href="https://github.com/NewMD-org" title="NewMD's organization">NewMD</a></p>
