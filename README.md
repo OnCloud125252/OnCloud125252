@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=40&height=60&lines=Hello%2C+I'm+AAAA+!">
+  <img src="https://readme-typing-svg.herokuapp.com?size=40&height=60&lines=Hello%2C+I'm+Alex+!">
 </div>
 
 <div>
   <p>
   <span align="left">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=Anonymous-AAAA&show_icons=true&theme=radical" title="AAAA's GitHub Stats">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=Anonymous-AAAA&show_icons=true&theme=radical" title="Alex's GitHub Stats">
   </span>
-  <img align="right" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anonymous-AAAA&langs_count=8" title="AAAA's Most Used Languages">
+  <img align="right" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anonymous-AAAA&langs_count=8" title="Alex's Most Used Programing Languages">
   </p>
   <div>
     <h4>
@@ -23,14 +23,15 @@
 <div>
   <h2>💙 About me</h2>
   <h3><p>“I am always learning, always discovering.”</p></h3>
-  <p>My name is AAAA. I'm a student who love coding, computers, and electronics. I always to try and learn new things.</p>
+  <p>My name is Alex. I'm a student who love coding, computers, and electronics. I always to try and learn new things.</p>
 </div>
 
 <div>
   <h2>🛠 Currently working project</h2>
-  <h3><a href="https://github.com/Anonymous-AAAA/NewMD" title="NewMD's GitHub page">NewMD</a></h3>
-  <p>NewMD is a beautiful type of Mingdao high school's timetable website.</p>
-  <p>Demo website on netlify : <a href="https://newmd.netlify.com" title="NewMD website">NewMD website</a></p>
+  <a href="https://ibb.co/dt0xHRy"><img src="https://i.ibb.co/W0WjRL1/logo-web.png" alt="logo-web" border="0"></a>
+  <h3><a href="https://github.com/NewMD-org/NewMD-Frontend" title="NewMD's GitHub page">NewMD</a> - a beautiful version of Mingdao high school's timetable website.</h3>
+  <p>View website : <a href="https://newmd.eu.org" title="NewMD's website">newmd.eu.org</a></p>
+  <p>View organization : <a href="https://github.com/NewMD-org" title="NewMD's organization">NewMD</a></p>
   <h6><em>This is the beta version. It does not represent the final quality.</em></h6>
 </div>
 
@@ -61,5 +62,5 @@
 </h3>
 
 ## 📫 Contact me
-- My facebook : [Alexande Liao](https://www.facebook.com/alexandt.liao.90 "Facebook")
 - My discord : [꧁AAAA꧂#2713](https://discord.com/users/755269122597585018 "Discord")
+- My facebook : [Alexande Liao](https://www.facebook.com/alexandt.liao.90 "Facebook")
