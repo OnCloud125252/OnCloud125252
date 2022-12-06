@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=40&height=60&lines=Hello%2C+I'm+Alex+!">
+  <img src="https://readme-typing-svg.herokuapp.com?size=40&height=60&lines=Hello%2C+I'm+OnCloud+!">
 </div>
 
 <div>
@@ -62,5 +62,5 @@
 </h3>
 
 ## 📫 Contact me
-- My discord : [꧁AAAA꧂#2713](https://discord.com/users/755269122597585018 "Discord")
-- My facebook : [Alexande Liao](https://www.facebook.com/alexandt.liao.90 "Facebook")
+- My discord : [꧁OnCloud꧂#2713](https://discord.com/users/755269122597585018 "Discord")
+- My facebook : [OnCloud](https://www.facebook.com/oncloud.ax "Facebook")
