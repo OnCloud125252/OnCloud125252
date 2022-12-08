@@ -5,9 +5,9 @@
 <div>
   <p>
   <span align="left">
-  <img width="60%" src="https://oncloud-github-readme-stats.vercel.app/api?username=OnCloud125252&show_icons=true&theme=radical" title="Alex's GitHub Stats">
+  <img width="60%" src="https://github-stats-api.aaaaoncloud.eu.org/api?username=OnCloud125252&show_icons=true&theme=radical" title="Alex's GitHub Stats">
   </span>
-  <img align="right" width="30%" src="https://oncloud-github-readme-stats.vercel.app/api/top-langs/?username=OnCloud125252&langs_count=8" title="Alex's Most Used Programing Languages">
+  <img align="right" width="30%" src="https://github-stats-api.aaaaoncloud.eu.org/api/top-langs/?username=OnCloud125252&langs_count=8" title="Alex's Most Used Programing Languages">
   </p>
   <div>
     <h4>
