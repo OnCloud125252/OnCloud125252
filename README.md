@@ -30,7 +30,7 @@
   <h2>🛠 Currently working project</h2>
   <a href="https://newmd.eu.org"><img src="https://i.ibb.co/W0WjRL1/logo-web.png" alt="logo-web" border="0"></a>
   <h3><a href="https://github.com/NewMD-org/NewMD-Frontend" title="NewMD's GitHub page">NewMD</a> - a beautiful version of Mingdao high school's timetable website.</h3>
-  <p>View website : <a href="https://newmd.eu.org" title="NewMD's website">newmd.eu.org</a></p>
+  <p><h3>🌟Website is now available on <a href="https://newmd.eu.org" title="NewMD's website">newmd.eu.org</a></h3></p>
   <p>View organization : <a href="https://github.com/NewMD-org" title="NewMD's organization">NewMD</a></p>
   <h6><em>This is the beta version. It does not represent the final quality.</em></h6>
 </div>
@@ -64,3 +64,9 @@
 ## 📫 Contact me
 - My discord : [꧁OnCloud꧂#2713](https://discord.com/users/755269122597585018 "Discord")
 - My facebook : [OnCloud](https://www.facebook.com/oncloud.ax "Facebook")
+
+```
+（> ω ◕） ▄▄▄
+     つ ▄︻┻┳═一     ε＝ε＝ﾉ(>д<)ﾉ
+          つ
+```
