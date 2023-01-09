@@ -14,7 +14,7 @@
       <li>🌱 I’m currently learning <code>JavaScript</code>, <code>TypeScript</code>, <code>HTML</code>, <code>CSS</code>
       <li>👯 I’m looking to collaborate on <code>null</code></li>
       <li>🤔 I’m looking for help with <code>null</code></li>
-      <li>💬 Ask me about <code>anything</code></li>
+      <li>💬 Ask me about <code>JavaScript</code></li>
       <li>⚡ Fun fact : Love to develop on <code>Windows 10</code> with <code>VSCode</code> + <code>WSL</code></li>
     </h4>
   </div>
@@ -63,8 +63,11 @@
 </h3>
 
 ## 📫 Contact me
-- My discord : [꧁OnCloud꧂#2713](https://discord.com/users/755269122597585018 "Discord")
-- My facebook : [OnCloud](https://www.facebook.com/oncloud.ax "Facebook")
+- My discord : [![](https://dcbadge.vercel.app/api/shield/755269122597585018/?theme=default-inverted&logoColor=pink&style=flat-square)](https://discord.com/users/755269122597585018 "Discord")
+  
+---
+
+
 
 ```
 （> ω ◕） ▄▄▄
