@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=40&height=60&lines=Hello%2C+I'm+OnCloud+!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&center=true&vCenter=true&width=435&lines=var+coding+%3D+life" />
 </div>
 
 <div>
