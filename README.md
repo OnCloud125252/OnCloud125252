@@ -42,7 +42,7 @@
   <p><h3>🌟 Website is now available on <a href="https://newmd.eu.org" title="NewMD's website">newmd.eu.org</a></h3></p>
   <p>View organization : <a href="https://github.com/NewMD-org" title="NewMD's organization">NewMD</a></p>
   <a href="https://github.com/NewMD-org/NewMD-Frontend-Next">
-    <img src="https://github-readme-stats.on-cloud.eu.org/api/pin/?username=NewMD-org&repo=NewMD-Frontend-Next&show_owner=true">
+    <img src="https://github-readme-stats.on-cloud.eu.org/api/pin/?username=NewMD-org&repo=NewMD-Frontend-Next&show_owner=true&theme=onedark">
   </a>
   
   <h2>Discord Bot Template</h2>
@@ -57,7 +57,7 @@
   - **Error Logging**: The bot has an integrated error logging feature to keep track of any unexpected errors efficiently.
 
   <a href="https://github.com/NewMD-org/NewMD-Frontend-Next">
-    <img src="https://github-readme-stats.on-cloud.eu.org/api/pin/?username=OnCloud125252&repo=Discord-Bot-Template">
+    <img src="https://github-readme-stats.on-cloud.eu.org/api/pin/?username=OnCloud125252&repo=Discord-Bot-Template&theme=onedark">
   </a>
 </div>
 
