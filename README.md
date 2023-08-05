@@ -5,15 +5,13 @@
 <div>
   <p>
   <span align="left">
-  <img width="60%" src="https://github-stats-api.aaaaoncloud.eu.org/api?username=OnCloud125252&show_icons=true&theme=radical" title="Alex's GitHub Stats">
+  <img width="60%" src="https://github-readme-stats.on-cloud.eu.org/api?username=OnCloud125252&show_icons=true&theme=onedark" title="Alex's GitHub Stats">
   </span>
-  <img align="right" width="30%" src="https://github-stats-api.aaaaoncloud.eu.org/api/top-langs/?username=OnCloud125252&langs_count=8" title="Alex's Most Used Programing Languages">
+  <img align="right" width="30%" src="https://github-readme-stats.on-cloud.eu.org/api/top-langs/?username=OnCloud125252&langs_count=8&theme=onedark" title="Alex's Most Used Programing Languages">
   </p>
   <div>
     <h4>
-      <li>🌱 I’m currently learning <code>JavaScript</code>, <code>TypeScript</code>, <code>HTML</code>, <code>CSS</code>
-      <li>👯 I’m looking to collaborate on <code>null</code></li>
-      <li>🤔 I’m looking for help with <code>null</code></li>
+      <li>🌱 I’m currently learning <code>JavaScript</code>, <code>TypeScript</code>, <code>Next.js</code>, <code>Kubernetes</code>
       <li>💬 Ask me about <code>JavaScript</code></li>
       <li>⚡ Fun fact : Love to develop on <code>Windows 10</code> with <code>VSCode</code> + <code>WSL</code></li>
     </h4>
@@ -21,19 +19,49 @@
 </div>
 
 <div>
-  <h2>💙 About me</h2>
-  <h3><p>“I am always learning, always discovering.”</p></h3>
-  <p>My name is Alex. I'm a student who love coding, computers, and electronics. I always to try and learn new things.</p>
+  <h2>👋 About Me</h2>
+  <h3><p>“I am a perpetual learner, constantly exploring the world of technology.”</p></h3>
+  <p>Hello, I'm Alex – a passionate student who finds joy in the realms of coding, computers, and electronics. With an insatiable curiosity, I'm on a journey of continuous growth and discovery.</p>
+
+  <h3>🚀 Fostering Coding Education</h3>
+  <p>I've dedicated a significant amount of time to cultivating my coding skills, and I'm equally enthusiastic about sharing my knowledge. Through teaching others to code, I aim to make the world of programming more accessible and empowering. Feel free to explore my repositories and resources that reflect my commitment to coding education.</p>
+
+  <h3>🌱 Embracing Learning</h3>
+  <p>My motto is to always be learning and evolving. I'm an advocate for stepping out of comfort zones, diving into new technologies, and embracing challenges. Whether it's tinkering with code, experimenting with electronics, or exploring innovative ideas, I thrive on the excitement of constant improvement.</p>
+
+  > ***“The only true wisdom is in knowing you know nothing.” - Socrates***
+
 </div>
 
 <div>
   <h2>🛠 Currently working project</h2>
-  <a href="https://newmd.eu.org"><img src="https://i.ibb.co/W0WjRL1/logo-web.png" alt="logo-web" border="0"></a>
-  <h3>- a beautiful version of Mingdao high school's timetable website.</h3>
-  <p><h3>🌟Website is now available on <a href="https://newmd.eu.org" title="NewMD's website">newmd.eu.org</a></h3></p>
+
+  <h2>NewMD Timetable</h2>
+  <a href="https://newmd.eu.org"><img height="120px" src="https://i.ibb.co/W0WjRL1/logo-web.png" alt="logo-web" border="0"></a>
+  <p>A beautiful version of Mingdao high school's timetable website.</p>
+  <p><h3>🌟 Website is now available on <a href="https://newmd.eu.org" title="NewMD's website">newmd.eu.org</a></h3></p>
   <p>View organization : <a href="https://github.com/NewMD-org" title="NewMD's organization">NewMD</a></p>
-  <h6><em>This is the beta version. It does not represent the final quality.</em></h6>
+  <a href="https://github.com/NewMD-org/NewMD-Frontend-Next">
+    <img src="https://github-readme-stats.on-cloud.eu.org/api/pin/?username=NewMD-org&repo=NewMD-Frontend-Next&show_owner=true">
+  </a>
+  
+  <h2>Discord Bot Template</h2>
+  <p>The Discord Bot Template is a powerful starting point for creating a feature-rich Discord bot, utilizing modern slash commands.</p>
+  <p>Building commands for this bot is developer-friendly, as you only need to create a file in command folder, and the built-in script will take care of the rest.</p>
+
+  ***Features Included***:
+  - **ChatGPT**: The bot includes a ChatGPT feature that can read chat history and remember users' Discord names, enhancing the interaction experience.
+  - **Music Player**: It has a built-in music player for providing entertainment to users in the Discord server.
+  - **Tic Tac Toe**: A fun and classic game of Tic Tac Toe is included, adding a playful element to the bot.
+  - **Auto-generated Help Command**: The template comes with an auto-generated help command to help users navigate the bot's commands effortlessly.
+  - **Error Logging**: The bot has an integrated error logging feature to keep track of any unexpected errors efficiently.
+
+  <a href="https://github.com/NewMD-org/NewMD-Frontend-Next">
+    <img src="https://github-readme-stats.on-cloud.eu.org/api/pin/?username=OnCloud125252&repo=Discord-Bot-Template">
+  </a>
 </div>
+
+<br>
 
 <h3>
 <details>
@@ -62,8 +90,11 @@
 </details>
 </h3>
 
-## 📫 Contact me
-- My discord : [![](https://dcbadge.vercel.app/api/shield/755269122597585018/?theme=default-inverted&logoColor=pink&style=flat-square)](https://discord.com/users/755269122597585018 "Discord")
+<h2>🔗 Connect with Me</h2>
+<p>If you share my passion for coding, learning, or just want to connect, don't hesitate to reach out. Let's learn and grow together!</p>
+<a href="https://discord.com/users/755269122597585018">
+    <img title="Discord" height="35px" src="https://dcbadge.vercel.app/api/shield/755269122597585018/?theme=default-inverted&logoColor=pink&style=flat-square"/>
+</a>
   
 ---
 
