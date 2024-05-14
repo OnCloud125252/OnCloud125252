@@ -93,7 +93,7 @@
 <h2>🔗 Connect with Me</h2>
 <p>If you share my passion for coding, learning, or just want to connect, don't hesitate to reach out. Let's learn and grow together!</p>
 <a href="https://discord.com/users/755269122597585018">
-    <img title="Discord" height="35px" src="https://dcbadge.vercel.app/api/shield/755269122597585018/?theme=default-inverted&logoColor=pink&style=flat-square"/>
+    <img title="Discord" height="35px" src="https://dcbadge.limes.pink/api/shield/755269122597585018/?theme=default-inverted&logoColor=pink&style=flat-square"/>
 </a>
   
 ---
