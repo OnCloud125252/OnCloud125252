@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://on-cloud.tw/project" target="_blank">
+  <a href="https://on-cloud.tw" target="_blank">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&center=true&vCenter=true&width=455&lines=const+coding+%3D+life" />
   </a>
 </div>
@@ -7,9 +7,13 @@
 <div>
   <p>
   <span align="left">
-  <img width="60%" src="https://github-readme-stats.on-cloud.eu.org/api?username=OnCloud125252&show_icons=true&theme=onedark" title="Alex's GitHub Stats">
+  <a href="https://on-cloud.tw/project" target="_blank">
+    <img width="60%" src="https://github-readme-stats.on-cloud.eu.org/api?username=OnCloud125252&show_icons=true&theme=onedark" title="Alex's GitHub Stats">
+  </a>
   </span>
-  <img align="right" width="30%" src="https://github-readme-stats.on-cloud.eu.org/api/top-langs/?username=OnCloud125252&langs_count=8&theme=onedark" title="Alex's Most Used Programing Languages">
+  <a href="https://on-cloud.tw/project" target="_blank">
+    <img align="right" width="30%" src="https://github-readme-stats.on-cloud.eu.org/api/top-langs/?username=OnCloud125252&langs_count=8&theme=onedark" title="Alex's Most Used Programing Languages">
+  </a>
   </p>
   <div>
     <h4>
