@@ -62,6 +62,11 @@ A spacedesk client that can be used offline.
 
 [![](https://github-readme-stats.on-cloud.eu.org/api/pin/?username=OnCloud125252&repo=Spacedesk-Viewer&theme=onedark)](https://github.com/OnCloud125252/Spacedesk-Viewer)
 
+## [Update Install](https://github.com/Update-Install)
+Easy way to install deb package for Linux distributions.
+
+[![](https://github-readme-stats.on-cloud.eu.org/api/pin/?username=Update-Install&repo=cli&show_owner=true&theme=onedark)](https://github.com/Update-Install/cli)
+
 # 🔗 Connect With Me
 
 - [Discord](https://discord.com/users/755269122597585018) [![](https://dcbadge.limes.pink/api/shield/755269122597585018/?theme=default-inverted&logoColor=pink&style=flat-square)](https://discord.com/users/755269122597585018)
